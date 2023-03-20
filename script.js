@@ -1,6 +1,6 @@
 
     
-    let button = document.getElementById('button');
+    let button = document.getElementById('button')
     button.addEventListener('click' , addFile)
     let ul = document.getElementById("ultag")
     let emptyDivMessage = document.createElement('p')
