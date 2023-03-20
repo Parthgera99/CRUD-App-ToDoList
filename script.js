@@ -1,5 +1,4 @@
-<script>
-    
+
     
     let button = document.getElementById('button')
     button.addEventListener('click' , addFile)
@@ -77,8 +76,3 @@
     }
 
 
-
-
-
-</script>
-</html>
